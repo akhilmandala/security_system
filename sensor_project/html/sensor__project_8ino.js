@@ -1,0 +1,28 @@
+var sensor__project_8ino =
+[
+    [ "LED_PIN", "sensor__project_8ino.html#ab4553be4db9860d940f81d7447173b2f", null ],
+    [ "MAX_TAR_DISTANCE", "sensor__project_8ino.html#a078a20f4cd2136d3e16baed622454b5d", null ],
+    [ "MIN_TAR_DISTANCE", "sensor__project_8ino.html#adae47adbbde92aeb47a3067aa8d01d9c", null ],
+    [ "lcd", "sensor__project_8ino.html#af97afdf00af0e116e9b5957f6a470fc2", null ],
+    [ "loop", "sensor__project_8ino.html#afe461d27b9c48d5921c00d521181f12f", null ],
+    [ "setup", "sensor__project_8ino.html#a4fc01d736fe50cf5b977f755b675f11d", null ],
+    [ "TaskBlink", "sensor__project_8ino.html#aac5118a046f2d7f65f4a0db3a4a20d22", null ],
+    [ "TaskDisplayOutput", "sensor__project_8ino.html#a64f73872f0666524ac7234e3b1879b7c", null ],
+    [ "TaskProcessIncomingScore", "sensor__project_8ino.html#af911376d0ffe97ab616b37fc3755b927", null ],
+    [ "TaskReadNanoBoard", "sensor__project_8ino.html#a4e94a572d3a9150396b3f58218f589d6", null ],
+    [ "TaskReadSensors", "sensor__project_8ino.html#abb14568cb879179765768921ed1df52d", null ],
+    [ "currRegisteredTargetDistance", "sensor__project_8ino.html#a974c60e8ea067fadc931c762e953ee6a", null ],
+    [ "heatSensorActive", "sensor__project_8ino.html#abdd0f0bacb9560cc33500458c81efe77", null ],
+    [ "lastReadScore", "sensor__project_8ino.html#adf4766120fa59055d4a6960f50ca961c", null ],
+    [ "numEntries", "sensor__project_8ino.html#a75b15f0e26b4ccf3195772b134b660ec", null ],
+    [ "pirPin", "sensor__project_8ino.html#a2ceac5a04da19e40ba3a1140e2796e72", null ],
+    [ "queue1", "sensor__project_8ino.html#a81062369e25ec94901a2a1cd59a95827", null ],
+    [ "readyForNewData", "sensor__project_8ino.html#ad037f97e47afd722f0e18715b1df5e13", null ],
+    [ "recentNoPersonScores", "sensor__project_8ino.html#a1d77ff8922b488a9d61696719acea01b", null ],
+    [ "recentPersonScores", "sensor__project_8ino.html#a4d08bdd09f255639f66aa741fc5dfde2", null ],
+    [ "T_DisplayOutput", "sensor__project_8ino.html#abd8089270d3c7760b43dd9c0bceb150b", null ],
+    [ "T_ProcessIncomingScore", "sensor__project_8ino.html#a04b7508704cc6f2d2fcce1339b48626c", null ],
+    [ "T_ReadNanoBoard", "sensor__project_8ino.html#ab154cf44e2318eeb10c3006c6f178edd", null ],
+    [ "T_SensorRead", "sensor__project_8ino.html#ae9a0bd5e7fa703331d42d87bf71a7d47", null ],
+    [ "ultrasonicSensor", "sensor__project_8ino.html#a6969ecbd5e9307b9426a14de6c688097", null ]
+];
